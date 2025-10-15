@@ -87,7 +87,7 @@ def exportar_filtrado():
         messagebox.showerror("Erro", "Digite uma média válida!")
 
 janela = tk.Tk()
-janela.title("📚 Sistema de Cadastro de Alunos")
+janela.title("Cadastro de Alunos")
 janela.geometry("650x550")
 janela.configure(bg="#f7f7f7")
 
